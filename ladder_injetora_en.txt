@@ -12,6 +12,6 @@ DOOR CONTROL AND OPERATION MODES
 Obs.: The door must remain closed all the time.
 
 SYSTEM RESET 
-1) Emergency interruption is pressed (PUSH button I06)
+1) Emergency interruption (PUSH button I06)
 2) Normal ending of the process cycle
 3) Door is opened
