@@ -1,13 +1,15 @@
 MOLDING MACHINE OPERATION
-- Q01 activated: moves and lock the mold in the right position
-- Q01 deactivated: opens the mold and return it to the initial position
+- Q01 activated: moves and locks the mold in the right position
+- Q01 deactivated: opens the mold and returns it to the initial position
 - Q02 activated: injects material into the mold
-- Q02 deactivated: cease material injection
+- Q02 deactivated: ceases material injection
 - Q03 activated: turns the cooling system on
 - Q03 deactivated: turns the cooling system off
 
 DOOR CONTROL AND OPERATION MODES
 1) Select auto or manual mode (PUSH button I02 for manual)
+1.1) Manual mode uses Counters: PUSH button I04 to go to the next operation
+1.2) Auto mode uses Timers: the time between operations cannot be controlled  
 2) Close the door to start the process (PUSH button I01)
 Obs.: The door must remain closed all the time.
 
